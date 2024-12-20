@@ -1,1 +1,0 @@
-# Password-complexity-checker
